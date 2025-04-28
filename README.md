@@ -10,7 +10,10 @@ It integrates spatial, temporal, and environmental data to optimize field crop m
 Traditional time series models often fail to capture the complexity of agricultural ecosystems — facing challenges like data heterogeneity, high dimensionality, and strong spatial-temporal dependencies.  
 **AgriSage** addresses these issues by leveraging modern deep learning and reinforcement learning techniques.
 
-### Key Features
+---
+
+## 🚀 Key Features
+
 - **Spatially-Aware Data Fusion Network (SADF-Net)**  
   Fuses multi-modal data: satellite imagery, IoT sensor readings, and meteorological forecasts for accurate predictions.
 - **Resource-Aware Adaptive Decision Algorithm (RAADA)**  
@@ -24,18 +27,13 @@ Traditional time series models often fail to capture the complexity of agricultu
 
 ## 📚 Table of Contents
 
-- [Overview](#-overview)
-- [Repository Structure](#-repository-structure)
-- [Model Architecture](#-model-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Configuration Files](#-configuration-files)
-- [Requirements](#-requirements)
-- [Contributing](#-contributing)
-- [Future Development](#-future-development)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-- [Citation](#-citation)
+- [🌾 Overview](#🌾-overview)
+- [🚀 Key Features](#🚀-key-features)
+- [📚 Table of Contents](#📚-table-of-contents)
+- [📂 Repository Structure](#📂-repository-structure)
+- [🚀 Future Development](#🚀-future-development)
+- [📄 License](#📄-license)
+- [🙏 Acknowledgments](#🙏-acknowledgments)
 
 ---
 
