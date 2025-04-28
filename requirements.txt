@@ -1,0 +1,31 @@
+# Core deep learning framework
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+
+# For reinforcement learning (RAADA)
+stable-baselines3>=2.1.0
+
+# Data processing and scientific computing
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# Time series specific tools
+tsfresh>=0.20
+darts>=0.24.0
+
+# For visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# For handling satellite imagery / remote sensing data (optional, based on your abstract)
+rasterio>=1.3
+geopandas>=0.14
+
+# Utilities
+tqdm>=4.65
+PyYAML>=6.0
+
+# For spatial feature extraction, if using special convolution libraries (optional)
+einops>=0.6
