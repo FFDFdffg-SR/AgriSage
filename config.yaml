@@ -1,0 +1,15 @@
+model_params:
+  image_channels: 3
+  sensor_input_size: 10
+  hidden_size: 128
+  attention_dim: 64
+  output_size: 1
+
+train_params:
+  lr: 0.001
+  epochs: 50
+
+data_params:
+  batch_size: 32
+  train_data_path: "data/processed/train/"
+  val_data_path: "data/processed/val/"
