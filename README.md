@@ -37,7 +37,7 @@ Traditional time series models often fail to capture the complexity of agricultu
 
 ---
 
-## 🗂️ Repository Structure
+## 📂 Repository Structure
 
 AgriSage/ ├── README.md ├── LICENSE ├── requirements.txt ├── setup.py ├── data/ │ ├── raw/
 │ ├── processed/
@@ -55,18 +55,23 @@ AgriSage/ ├── README.md ├── LICENSE ├── requirements.txt ├�
 ├── visualization.py
 └── helpers.py
 
+
 ---
 
 ## 🚀 Future Development
 
 We envision AgriSage growing into a comprehensive precision agriculture platform with the following future enhancements:
 
-- **Multi-task Learning:** Extend SADF-Net to jointly predict yield, disease outbreaks, and resource needs.
-- **Explainability Modules:** Integrate interpretable AI components (e.g., saliency maps) for actionable insights to farmers.
-- **Edge Computing Deployment:** Optimize models for real-time inference on edge devices deployed in fields.
-- **More Fine-grained Spatial Modeling:** Implement graph neural networks (GNNs) for even finer spatial relationships.
-- **Weather-Adaptive Planning:** Incorporate dynamic adaptation to sudden weather events such as storms, droughts, or floods.
-- **Large-Scale Real-World Validation:** Collaborate with agricultural research centers and farms for broader field testing.
+- **Multi-task Learning**  
+  Extend SADF-Net to jointly predict yield, disease outbreaks, and resource needs.
+- **Explainability Modules**  
+  Integrate interpretable AI components (e.g., saliency maps) for actionable insights to farmers.
+- **Edge Computing Deployment**  
+  Optimize models for real-time inference on edge devices deployed in fields.
+- **More Fine-grained Spatial Modeling**  
+  Implement graph neural networks (GNNs) for even finer spatial relationships.
+- **Large-Scale Real-World Validation**  
+  Collaborate with agricultural research centers and farms for broader field testing.
 
 Community contributions are highly encouraged to help drive AgriSage forward!
 
@@ -93,3 +98,4 @@ We would like to thank:
 Special thanks to all contributors who support the mission of making agriculture smarter, more sustainable, and more resilient through technology.
 
 ---
+
